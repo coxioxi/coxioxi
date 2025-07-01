@@ -7,7 +7,7 @@
   - [Tutor and Student Pairing Application](https://github.com/coxioxi/Tutor-and-Student-Pairing.java)
   - [Asteroids Game](https://github.com/coxioxi/Asteroids.java)
   - [Graph Analyzer](https://github.com/coxioxi/Graph.java)
-- <b>Python</b>
+- <b>Python Projects</b>
   - [Basic Ecosystem Simulation](https://github.com/coxioxi/Ecosystem-Simulation)
 
 <h2> 🤳 Connect with me:</h2>
