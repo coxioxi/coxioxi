@@ -8,7 +8,7 @@
   - [Asteroids Game](https://github.com/coxioxi/Asteroids.java)
   - [Graph Analyzer](https://github.com/coxioxi/Graph.java)
 - <b>Python</b>
-  - [Basic Ecosystem Simulation)](https://github.com/coxioxi/Ecosystem-Simulation)
+  - [Basic Ecosystem Simulation](https://github.com/coxioxi/Ecosystem-Simulation)
 
 <h2> 🤳 Connect with me:</h2>
 
