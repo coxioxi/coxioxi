@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Samuel! 
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Java Projects</b>
+  - [Multiplayer Scrabble Application](https://github.com/coxioxi/Scrabble.java)
+  - [Tutor and Student Pairing Application](https://github.com/coxioxi/Tutor-and-Student-Pairing.java)
+  - [Asteroids Game](https://github.com/coxioxi/Asteroids.java)
+  - [Graph Analyzer](https://github.com/coxioxi/Graph.java)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Samuel Costa | LinkedIn" width="22px" src="https://www.linkedin.com/in/samuel-costa-667097319/" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**coxioxi/coxioxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
