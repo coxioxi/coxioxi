@@ -7,13 +7,13 @@
   - [Tutor and Student Pairing Application](https://github.com/coxioxi/Tutor-and-Student-Pairing.java)
   - [Asteroids Game](https://github.com/coxioxi/Asteroids.java)
   - [Graph Analyzer](https://github.com/coxioxi/Graph.java)
-- <b>Python Projects</b>
-  - [Basic Ecosystem Simulation](https://github.com/coxioxi/Ecosystem-Simulation)
 - <b> C Projects <b>
   - [HTTP Server](https://github.com/coxioxi/HTTP-server-)
   - [Movies Database](https://github.com/coxioxi/Movies-Database)
   - [Intrusion Detection System Server](https://github.com/coxioxi/Intrusion-Detection-System-Server)
   - [CGI Based Dynamic Web Server](https://github.com/coxioxi/CGI-Based-Dynamic-Web-Server)
+- <b>Python Projects</b>
+  - [Basic Ecosystem Simulation](https://github.com/coxioxi/Ecosystem-Simulation)
 
 <h2> 🤳 Connect with me:</h2>
 
