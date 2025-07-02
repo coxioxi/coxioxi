@@ -1,5 +1,5 @@
 <h1>Hi, I'm Samuel! 
-
+I'm a Computer Science student passionate about building real-world software projects across multiple languages and platforms.
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java Projects</b>
