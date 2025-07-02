@@ -1,10 +1,12 @@
 <h1>Hi, I'm Samuel! 
 I'm a Computer Science student passionate about building real-world software projects across multiple languages and platforms.
-<h2>👨‍💻 Resume: </h2>
-  -<b>English:<b>
-    [My Resume](https://github.com/coxioxi/coxioxi/blob/main/My%20Resume.pdf)
-  -<b>Portugues:<b>
-    [Meu Curriculo](https://github.com/coxioxi/coxioxi/blob/main/Meu%20Curriculo.pdf)
+<h2>👨‍💻 Currículo / Resume<h2>
+
+**English:**  
+[📄 View My Resume (PDF)](https://github.com/coxioxi/coxioxi/blob/main/My%20Resume.pdf)
+
+**Português:**  
+[📄 Ver Meu Currículo (PDF)](https://github.com/coxioxi/coxioxi/blob/main/Meu%20Curriculo.pdf)
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java Projects</b>
