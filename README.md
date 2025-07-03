@@ -1,12 +1,5 @@
 <h1>Hi, I'm Samuel! 
 I'm a Computer Science student passionate about building real-world software projects across multiple languages and platforms.
-<h2>👨‍💻 Currículo / Resume<h2>
-
-**English:**  
-[📄 View My Resume (PDF)](https://github.com/coxioxi/coxioxi/blob/main/My%20Resume.pdf)
-
-**Português:**  
-[📄 Ver Meu Currículo (PDF)](https://github.com/coxioxi/coxioxi/blob/main/Meu%20Curriculo.pdf)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -22,6 +15,14 @@ I'm a Computer Science student passionate about building real-world software pro
   - [CGI Based Dynamic Web Server](https://github.com/coxioxi/CGI-Based-Dynamic-Web-Server)
 - <b>Python Projects</b>
   - [Basic Ecosystem Simulation](https://github.com/coxioxi/Ecosystem-Simulation)
+ 
+<h2>👨‍💻 Currículo / Resume<h2>
+
+**English:**  
+[📄 View My Resume (PDF)](https://github.com/coxioxi/coxioxi/blob/main/My%20Resume.pdf)
+
+**Português:**  
+[📄 Ver Meu Currículo (PDF)](https://github.com/coxioxi/coxioxi/blob/main/Meu%20Curriculo.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
