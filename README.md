@@ -7,6 +7,7 @@ I'm a Computer Science student passionate about building real-world software pro
 
 **Português:**  
 [📄 Ver Meu Currículo (PDF)](https://github.com/coxioxi/coxioxi/blob/main/Meu%20Curriculo.pdf)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java Projects</b>
