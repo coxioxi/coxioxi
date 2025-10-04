@@ -16,7 +16,7 @@ I'm a Computer Science student passionate about building real-world software pro
 - <b>Python Projects</b>
   - [Basic Ecosystem Simulation](https://github.com/coxioxi/Ecosystem-Simulation)
 - <b>HTML|CSS|JavaScript</b>
-  -[Portifolio](https://github.com/coxioxi/HTML-Project-)
+  - [Portifolio](https://github.com/coxioxi/HTML-Project-)
  
 <h2>👨‍💻 Currículo / Resume<h2>
 
