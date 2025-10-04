@@ -15,6 +15,7 @@ I'm a Computer Science student passionate about building real-world software pro
   - [CGI Based Dynamic Web Server](https://github.com/coxioxi/CGI-Based-Dynamic-Web-Server)
 - <b>Python Projects</b>
   - [Basic Ecosystem Simulation](https://github.com/coxioxi/Ecosystem-Simulation)
+  - [NFA Emulator](https://github.com/coxioxi/NFA-Simulator)
 - <b>HTML | CSS | JavaScript</b>
   - [Portifolio](https://github.com/coxioxi/HTML-Project-)
  
