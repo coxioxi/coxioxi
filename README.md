@@ -22,7 +22,7 @@ I'm a Computer Science student passionate about building real-world software pro
 <h2>👨‍💻 Currículo / Resume<h2>
 
 **English:**  
-[📄 View My Resume (PDF)](https://github.com/coxioxi/coxioxi/blob/main/My%20Resume.pdf)
+[📄 View My Resume (PDF)](https://github.com/coxioxi/coxioxi/blob/main/My_New_Resume.pdf)
 
 **Português:**  
 [📄 Ver Meu Currículo (PDF)](https://github.com/coxioxi/coxioxi/blob/main/Curriculo.pdf)
