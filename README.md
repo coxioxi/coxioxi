@@ -8,6 +8,7 @@
   - [Tutor and Student Pairing Application](https://github.com/coxioxi/Tutor-and-Student-Pairing.java)
   - [Asteroids Game](https://github.com/coxioxi/Asteroids.java)
   - [Graph Analyzer](https://github.com/coxioxi/Graph.java)
+  - [AES-SHA_Generator](https://github.com/coxioxi/AES-SHA_Generator)
 - <b> C Projects <b>
   - [HTTP Server](https://github.com/coxioxi/HTTP-server-)
   - [Movies Database](https://github.com/coxioxi/Movies-Database)
