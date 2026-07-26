@@ -16,8 +16,9 @@
 - <b>Python Projects</b>
   - [Basic Ecosystem Simulation](https://github.com/coxioxi/Ecosystem-Simulation)
   - [NFA Emulator](https://github.com/coxioxi/NFA-Simulator)
-- <b>HTML | CSS | JavaScript</b>
+- <b>HTML | CSS | JavaScript | Typescript</b>
   - [Portifolio](https://github.com/coxioxi/HTML-Project-)
+  - [Online Schedule Management System](https://github.com/coxioxi/3700-Term-Proj)
  
 <h2>👨‍💻 Currículo / Resume<h2>
 
