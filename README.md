@@ -1,5 +1,5 @@
-<h1>Hi, I'm Samuel! 
-I'm a Computer Science student passionate about building real-world software projects across multiple languages and platforms.
+<h1>Sou bacharel em Ciência da Computação, apaixonado por desenvolver soluções de software para problemas do mundo real, utilizando diferentes linguagens de programação e plataformas.
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
